@@ -1,0 +1,13 @@
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.exe
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.deps.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.genruntimeconfig.cache
