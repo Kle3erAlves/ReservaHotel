@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using ReservaHotel.Entities.Exceptions;
 
 namespace ReservaHotel.Entities
 {
@@ -18,6 +17,13 @@ namespace ReservaHotel.Entities
 
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            //TRATAMENTO DE EXCEÇÃO TAMBEM PODE SER FEITO NO CONSTRUTOR, QUANDO RECEBER OS PARAMETROS
+
+            if (checkOut <= checkIn)
+            { //lançar
+                throw new DomainException("Check-out date must be after check-in date");
+            }
+
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -33,6 +39,18 @@ namespace ReservaHotel.Entities
         //METODO UPDATE -ATUALIZA O OBJETO
         public void UpdateDates (DateTime checkIn, DateTime checkOut)
         {
+            //TRATAMENTO DE EXCESSAO, RESPONSABILIDADE DA VERIFICAÇÃO É DO METODO UPDATADATES
+            DateTime now = DateTime.Now; //Necessário instanciar todo objeto que sera utilizado, mesmo os do sistema .Net
+            if (checkIn < now || checkOut < now)
+            { //lançar
+                throw new DomainException("Reservation dates for updates must be future dates");
+            }
+
+            else if (checkOut <= checkIn)
+            { //lançar
+                throw new DomainException("Check-out date must be after check-in date");
+            }
+
             CheckIn = checkIn;
             CheckOut = checkOut;
         }
